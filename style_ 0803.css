@@ -32,7 +32,7 @@ color: rgb(31, 31, 146);
 .titulo-principal span{
     color: var(--verde);
 }
-.botao{
+.batao{
     font-family: 'lobster', sans-serif;
     background-color: var(--botao-inativo);
     color:var(--branco);
