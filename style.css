@@ -67,3 +67,10 @@ h2{
    background-color: var(--botao-ativo);
    border-bottom: 10px solid var(--verde);
 }
+.aba-conteudo.ativo{
+    display: block;
+}
+.aba-conteudo{
+    display: none;
+}
+    
